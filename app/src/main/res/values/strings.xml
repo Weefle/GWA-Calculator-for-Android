@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GWA Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_gwa">Your GWA is...</string>
+    <string name="btn_compute">Compute GWA!</string>
+    <string name="btn_add">Add a subject</string>
+    <string name="btn_remove">Remove a subject</string>
+    <string name="gwa">GWA</string>
+    <string name="no_units">No. of units: </string>
+    <string name="grade_got">Grade achieved: </string>
+</resources>
